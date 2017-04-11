@@ -1,0 +1,20 @@
+ .main{width: 900px;margin: 0 auto;background: #666}
+.header{}
+.header img{ width: 900px;height: 150}
+.mainmenu{background: #78866B;overflow: hidden;margin-bottom: 20px}
+.mainmenu ul{ list-style: none}
+.mainmenu ul li{float: left}
+.mainmenu ul li a{text-decoration: none;display: block;color: yellow;padding: 10px}
+.mainmenu ul li a:hover{background: #7BA05B}
+.maincontent{overflow: hidden}
+.mainmenu h2{margin-bottom: 20px}
+.mainmenu p{margin-bottom: 20px}
+.content{width: 530;float: right}
+.content:hover{background: #CADABA}
+.sideber{width: 350;float: left;margin-right: 20px;background:#BDB76B;height: auto}
+.sideber ul{list-style:square}
+.sideber ul li{margin-bottom: 10px;border-bottom: 2px solid #666}
+.sideber ul li a{ color: yellow;text-decoration: none;display: block}
+.sideber ul li a:hover{background: blue}
+.footer{color: red;text-align: center;background: #000}
+.footer:hover{background: #556832}
